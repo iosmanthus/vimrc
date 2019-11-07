@@ -1,0 +1,8 @@
+autoload/plug.vim.old
+view/
+swap/*
+!swap/.gitignore
+sessions/
+plugged/
+viminfo
+.netrwhist
